@@ -2,7 +2,10 @@
   "name": "react-tdd-clean-architecture-solid",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "yago-codev <yagomilano92@gmail.com>",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yago",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^27.0.1",
